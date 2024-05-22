@@ -1,0 +1,11 @@
+1. npm install --save-dev @testing-library/react @testing-library/jest-dom jest
+2. npm i --save-dev @types/jest
+3. npm i @testing-library/jest-dom --save-dev
+4. npm i -D @testing-library/jest-dom@^4.2.4 
+5. npm init
+6. npm init jest@latest
+7. npm i ts-node 
+8. npm install -D jest-environment-jsdom  
+9. npm install --save-dev jest    
+10. npm i -D ts-jest @types/jest    
+11. 
